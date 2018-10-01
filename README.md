@@ -7,3 +7,5 @@ deployed at https://testingproject-cd660.firebaseapp.com/
 3. Deploy the Application - [Link](https://firebase.google.com/docs/hosting/) <br>
 	* Change firebase.json's public node to point to <i>build</i> <br>
 
+### Installation instructions
+Node modules incomplete yetto be uploaded
